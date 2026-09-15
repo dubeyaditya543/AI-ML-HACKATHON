@@ -1,10 +1,11 @@
 import { Routes, Route } from 'react-router-dom'
-import AppShell from '@/components/layout/AppShell'
-import CommandCenter from '@/pages/CommandCenter'
-import ProspectivityMap from '@/pages/ProspectivityMap'
-import ProductionForecast from '@/pages/ProductionForecast'
-import RiskAnalysis from '@/pages/RiskAnalysis'
-import RecommendationCenter from '@/pages/RecommendationCenter'
+import AppShell from './components/layout/AppShell'
+import CommandCenter from './pages/CommandCenter'
+import ProspectivityMap from './pages/ProspectivityMap'
+import ProductionForecast from './pages/ProductionForecast'
+import RiskAnalysis from './pages/RiskAnalysis'
+import RecommendationCenter from './pages/RecommendationCenter'
+
 
 export default function App() {
   return (
