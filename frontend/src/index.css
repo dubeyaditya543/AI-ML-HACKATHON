@@ -25,6 +25,10 @@
   --font-mono: "JetBrains Mono", monospace;
 }
 
+.map-tiles-dark {
+  filter: invert(1) hue-rotate(180deg) brightness(0.85) contrast(0.9);
+}
+
 body {
   background-color: var(--color-bg-base);
   color: var(--color-text-primary);
