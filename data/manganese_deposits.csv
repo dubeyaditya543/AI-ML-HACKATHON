@@ -1,0 +1,151 @@
+deposit_id,state,district,latitude,longitude,grade,mn_pct,estimated_tonnage_mt,geological_type,depth_m,status,discovery_year
+MN-0001,Odisha,Kalahandi,21.897371,84.389389,Medium (35-44% Mn),42.8,72.31,Lateritic (Supergene enrichment),92.2,Active Mining,1983
+MN-0002,Odisha,Koraput,21.113905,84.631332,Medium (35-44% Mn),40.5,77.55,Sedimentary (Gondite series),6.0,Exploration Phase,1984
+MN-0003,Odisha,Kalahandi,22.153156,83.280899,High (>44% Mn),48.7,101.06,Volcanogenic (Dharwar Supergroup),11.7,Exploration Phase,2010
+MN-0004,Odisha,Keonjhar,21.079902,86.030217,High (>44% Mn),45.8,282.35,Sedimentary (Gondite series),39.9,Active Mining,2019
+MN-0005,Odisha,Koraput,21.489202,83.653831,High (>44% Mn),45.7,202.44,Metamorphic (Kodurite series),87.3,Exploration Phase,1988
+MN-0006,Odisha,Jajpur,22.090773,84.637095,High (>44% Mn),48.3,54.29,Volcanogenic (Dharwar Supergroup),90.1,Exhausted,1984
+MN-0007,Odisha,Sundargarh,21.774895,83.089568,High (>44% Mn),46.3,143.66,Volcanogenic (Dharwar Supergroup),7.0,Exploration Phase,2010
+MN-0008,Odisha,Sundargarh,22.3248,85.245024,Medium (35-44% Mn),40.6,32.83,Volcanogenic (Dharwar Supergroup),53.0,Under Assessment,2007
+MN-0009,Odisha,Kalahandi,22.675153,83.600881,Medium (35-44% Mn),43.7,85.22,Sedimentary (Gondite series),128.1,Exploration Phase,1964
+MN-0010,Odisha,Keonjhar,22.696347,84.770545,Medium (35-44% Mn),35.3,93.8,Volcanogenic (Dharwar Supergroup),97.3,Active Mining,2011
+MN-0011,Odisha,Jajpur,22.935425,84.964552,High (>44% Mn),48.8,194.84,Volcanogenic (Dharwar Supergroup),105.7,Under Assessment,1987
+MN-0012,Odisha,Kalahandi,22.232322,84.763001,Low (25-35% Mn),34.0,45.05,Volcanogenic (Dharwar Supergroup),51.1,Under Assessment,1992
+MN-0013,Odisha,Kalahandi,22.179937,83.450941,High (>44% Mn),49.5,106.24,Sedimentary (Gondite series),44.1,Exploration Phase,1983
+MN-0014,Odisha,Sundargarh,21.370971,84.823241,Medium (35-44% Mn),37.3,108.85,Metamorphic (Kodurite series),77.1,Under Assessment,2008
+MN-0015,Odisha,Jajpur,21.146587,84.432668,High (>44% Mn),48.4,227.07,Volcanogenic (Dharwar Supergroup),90.9,Exploration Phase,2014
+MN-0016,Odisha,Kalahandi,20.879731,85.118513,Medium (35-44% Mn),42.5,90.49,Lateritic (Supergene enrichment),51.5,Active Mining,1965
+MN-0017,Odisha,Kalahandi,22.131738,84.845192,High (>44% Mn),45.4,117.09,Volcanogenic (Dharwar Supergroup),105.2,Exploration Phase,1998
+MN-0018,Odisha,Koraput,20.873397,84.242351,Low (25-35% Mn),30.6,55.82,Volcanogenic (Dharwar Supergroup),81.8,Under Assessment,1961
+MN-0019,Odisha,Kalahandi,22.300388,84.621937,High (>44% Mn),50.2,132.32,Volcanogenic (Dharwar Supergroup),98.1,Under Assessment,1970
+MN-0020,Odisha,Keonjhar,22.183198,85.930875,High (>44% Mn),47.9,381.26,Volcanogenic (Dharwar Supergroup),70.0,Active Mining,2020
+MN-0021,Odisha,Kalahandi,22.087601,83.736402,High (>44% Mn),48.3,150.33,Sedimentary (Gondite series),78.8,Active Mining,1981
+MN-0022,Odisha,Kalahandi,20.788388,83.847352,Low (25-35% Mn),30.0,69.09,Lateritic (Supergene enrichment),88.7,Exhausted,1992
+MN-0023,Odisha,Sundargarh,22.000534,83.814274,High (>44% Mn),51.6,59.37,Volcanogenic (Dharwar Supergroup),137.7,Under Assessment,1994
+MN-0024,Odisha,Jajpur,21.984903,82.944616,Medium (35-44% Mn),37.4,93.11,Sedimentary (Gondite series),75.4,Active Mining,1977
+MN-0025,Odisha,Keonjhar,22.068087,84.573983,Medium (35-44% Mn),42.9,63.18,Lateritic (Supergene enrichment),112.4,Exploration Phase,1992
+MN-0026,Odisha,Keonjhar,21.834912,83.917457,Medium (35-44% Mn),35.7,63.88,Sedimentary (Gondite series),5.8,Exploration Phase,1995
+MN-0027,Odisha,Koraput,21.956712,85.408453,Medium (35-44% Mn),40.2,195.78,Metamorphic (Kodurite series),10.2,Active Mining,1984
+MN-0028,Odisha,Kalahandi,21.619867,84.612726,High (>44% Mn),50.6,45.84,Volcanogenic (Dharwar Supergroup),44.4,Active Mining,2003
+MN-0029,Odisha,Koraput,20.915707,84.673167,High (>44% Mn),48.1,177.27,Volcanogenic (Dharwar Supergroup),51.8,Under Assessment,1976
+MN-0030,Odisha,Sundargarh,20.453669,82.90752,Medium (35-44% Mn),36.6,42.67,Volcanogenic (Dharwar Supergroup),27.7,Exploration Phase,1993
+MN-0031,Odisha,Jajpur,21.244516,84.336307,High (>44% Mn),47.5,298.55,Lateritic (Supergene enrichment),110.9,Exhausted,1962
+MN-0032,Odisha,Jajpur,20.915407,83.476064,Medium (35-44% Mn),42.7,18.17,Lateritic (Supergene enrichment),107.0,Active Mining,1971
+MN-0033,Odisha,Jajpur,21.060598,85.377437,Medium (35-44% Mn),38.4,63.69,Volcanogenic (Dharwar Supergroup),95.7,Active Mining,2017
+MN-0034,Odisha,Keonjhar,24.049627,84.567331,Medium (35-44% Mn),40.7,166.75,Sedimentary (Gondite series),121.1,Under Assessment,1971
+MN-0035,Odisha,Kalahandi,22.768813,83.509748,Medium (35-44% Mn),43.1,152.14,Sedimentary (Gondite series),33.4,Under Assessment,1972
+MN-0036,Odisha,Keonjhar,21.06397,83.486094,High (>44% Mn),49.5,162.85,Volcanogenic (Dharwar Supergroup),54.4,Exploration Phase,2010
+MN-0037,Odisha,Koraput,21.00221,84.215609,Medium (35-44% Mn),37.5,161.47,Sedimentary (Gondite series),30.7,Under Assessment,1968
+MN-0038,Odisha,Jajpur,22.996339,85.850414,Medium (35-44% Mn),41.8,34.12,Volcanogenic (Dharwar Supergroup),114.4,Exploration Phase,2000
+MN-0039,Odisha,Kalahandi,22.006282,82.696673,Medium (35-44% Mn),43.6,65.45,Sedimentary (Gondite series),127.8,Active Mining,1968
+MN-0040,Odisha,Jajpur,21.759333,84.395886,Low (25-35% Mn),28.3,69.57,Sedimentary (Gondite series),102.5,Active Mining,1995
+MN-0041,Odisha,Sundargarh,22.950933,84.823666,Low (25-35% Mn),29.3,98.46,Sedimentary (Gondite series),37.3,Under Assessment,1968
+MN-0042,Odisha,Jajpur,21.947287,85.198033,High (>44% Mn),45.9,96.04,Sedimentary (Gondite series),136.6,Under Assessment,2004
+MN-0043,Odisha,Kalahandi,20.968618,85.588089,High (>44% Mn),44.9,240.54,Metamorphic (Kodurite series),76.4,Under Assessment,1972
+MN-0044,Odisha,Sundargarh,22.654998,82.968074,Medium (35-44% Mn),43.7,180.76,Lateritic (Supergene enrichment),59.4,Exploration Phase,2008
+MN-0045,Odisha,Jajpur,21.54593,83.824714,Medium (35-44% Mn),35.4,209.75,Sedimentary (Gondite series),139.1,Active Mining,2019
+MN-0046,Odisha,Sundargarh,21.578141,83.881592,Low (25-35% Mn),28.8,64.86,Sedimentary (Gondite series),111.9,Exhausted,1970
+MN-0047,Odisha,Keonjhar,21.411254,85.281047,Medium (35-44% Mn),40.3,45.44,Volcanogenic (Dharwar Supergroup),16.3,Exploration Phase,2000
+MN-0048,Odisha,Jajpur,21.241302,83.171906,High (>44% Mn),45.1,103.09,Volcanogenic (Dharwar Supergroup),16.0,Active Mining,1965
+MN-0049,Odisha,Sundargarh,20.443813,85.965167,Low (25-35% Mn),34.9,32.1,Metamorphic (Kodurite series),26.8,Under Assessment,1980
+MN-0050,Odisha,Sundargarh,21.007371,85.648947,Low (25-35% Mn),25.1,24.59,Lateritic (Supergene enrichment),15.9,Active Mining,1987
+MN-0051,Odisha,Sundargarh,21.504195,84.537584,Medium (35-44% Mn),36.2,218.39,Sedimentary (Gondite series),143.3,Exploration Phase,1972
+MN-0052,Karnataka,Bellary,14.766539,75.293678,Medium (35-44% Mn),42.0,18.62,Metamorphic (Kodurite series),80.4,Exploration Phase,1971
+MN-0053,Karnataka,Shimoga,14.049393,77.531406,Medium (35-44% Mn),40.6,111.48,Lateritic (Supergene enrichment),147.2,Under Assessment,2009
+MN-0054,Karnataka,Uttara Kannada,13.115302,76.655471,Medium (35-44% Mn),37.7,92.22,Volcanogenic (Dharwar Supergroup),80.9,Under Assessment,1976
+MN-0055,Karnataka,Tumkur,14.488225,76.137124,High (>44% Mn),49.1,156.22,Metamorphic (Kodurite series),39.8,Active Mining,2010
+MN-0056,Karnataka,Chitradurga,12.760094,77.125714,Medium (35-44% Mn),38.7,71.53,Volcanogenic (Dharwar Supergroup),131.8,Exhausted,1986
+MN-0057,Karnataka,Chitradurga,13.711419,75.903237,High (>44% Mn),44.7,27.78,Metamorphic (Kodurite series),22.5,Active Mining,2000
+MN-0058,Karnataka,Bellary,15.128827,75.270288,High (>44% Mn),49.5,73.28,Sedimentary (Gondite series),79.2,Exploration Phase,2002
+MN-0059,Karnataka,Bellary,15.181083,75.003709,Medium (35-44% Mn),39.2,26.67,Volcanogenic (Dharwar Supergroup),113.4,Exploration Phase,1973
+MN-0060,Karnataka,Shimoga,15.193479,75.876829,Medium (35-44% Mn),37.4,31.45,Lateritic (Supergene enrichment),59.7,Active Mining,1969
+MN-0061,Karnataka,Tumkur,15.45168,75.678669,High (>44% Mn),46.8,91.9,Volcanogenic (Dharwar Supergroup),99.1,Exploration Phase,1977
+MN-0062,Karnataka,Shimoga,14.561895,74.810973,Medium (35-44% Mn),38.3,87.01,Metamorphic (Kodurite series),98.7,Active Mining,1993
+MN-0063,Karnataka,Tumkur,14.491018,74.189605,High (>44% Mn),47.9,103.31,Metamorphic (Kodurite series),128.4,Exploration Phase,2021
+MN-0064,Karnataka,Tumkur,13.837133,75.063865,Low (25-35% Mn),34.0,15.63,Volcanogenic (Dharwar Supergroup),88.5,Under Assessment,1970
+MN-0065,Karnataka,Uttara Kannada,14.68986,75.718862,High (>44% Mn),48.6,70.58,Metamorphic (Kodurite series),45.6,Exploration Phase,2003
+MN-0066,Karnataka,Tumkur,13.772246,76.010899,Medium (35-44% Mn),39.3,87.68,Metamorphic (Kodurite series),82.2,Active Mining,1992
+MN-0067,Karnataka,Bellary,13.901624,73.78896,Medium (35-44% Mn),41.1,51.36,Volcanogenic (Dharwar Supergroup),115.2,Active Mining,1970
+MN-0068,Karnataka,Chitradurga,16.411903,75.016468,Medium (35-44% Mn),43.4,41.34,Volcanogenic (Dharwar Supergroup),148.7,Exploration Phase,1993
+MN-0069,Karnataka,Chitradurga,14.890435,76.764107,Low (25-35% Mn),26.9,25.57,Metamorphic (Kodurite series),39.2,Under Assessment,1973
+MN-0070,Karnataka,Shimoga,12.733515,75.788623,Low (25-35% Mn),32.5,45.5,Sedimentary (Gondite series),77.9,Active Mining,1984
+MN-0071,Karnataka,Shimoga,13.531599,74.209271,Medium (35-44% Mn),40.6,19.03,Metamorphic (Kodurite series),53.6,Under Assessment,2011
+MN-0072,Karnataka,Uttara Kannada,14.907502,76.497862,Medium (35-44% Mn),42.0,140.5,Sedimentary (Gondite series),25.8,Exhausted,1963
+MN-0073,Karnataka,Chitradurga,15.707817,75.821628,Low (25-35% Mn),29.0,41.81,Sedimentary (Gondite series),120.6,Active Mining,1964
+MN-0074,Karnataka,Chitradurga,12.441655,75.191569,Medium (35-44% Mn),40.4,23.14,Volcanogenic (Dharwar Supergroup),124.9,Exhausted,2021
+MN-0075,Karnataka,Chitradurga,14.636475,76.168452,Medium (35-44% Mn),39.6,95.74,Metamorphic (Kodurite series),93.7,Exploration Phase,2006
+MN-0076,Karnataka,Tumkur,15.014683,76.751764,High (>44% Mn),50.2,233.27,Volcanogenic (Dharwar Supergroup),59.3,Exhausted,1968
+MN-0077,Karnataka,Tumkur,15.774549,75.091027,Low (25-35% Mn),26.9,56.8,Sedimentary (Gondite series),126.4,Active Mining,1960
+MN-0078,Karnataka,Uttara Kannada,14.54458,76.375353,Medium (35-44% Mn),35.0,32.1,Metamorphic (Kodurite series),53.4,Under Assessment,2022
+MN-0079,Karnataka,Shimoga,15.341427,75.302106,Low (25-35% Mn),25.3,35.03,Sedimentary (Gondite series),137.3,Exploration Phase,2013
+MN-0080,Karnataka,Shimoga,14.494677,74.444684,Medium (35-44% Mn),36.9,94.72,Metamorphic (Kodurite series),79.7,Active Mining,1976
+MN-0081,Karnataka,Tumkur,13.860712,75.368371,Low (25-35% Mn),27.1,42.74,Metamorphic (Kodurite series),135.2,Exhausted,1991
+MN-0082,Karnataka,Uttara Kannada,16.305187,75.041132,High (>44% Mn),48.2,184.63,Metamorphic (Kodurite series),82.5,Exhausted,2008
+MN-0083,Karnataka,Shimoga,15.496868,73.841288,High (>44% Mn),51.2,83.74,Volcanogenic (Dharwar Supergroup),81.4,Active Mining,1992
+MN-0084,Karnataka,Shimoga,15.248543,76.517244,High (>44% Mn),44.8,52.6,Lateritic (Supergene enrichment),121.0,Active Mining,1962
+MN-0085,Karnataka,Shimoga,14.614572,76.282634,Medium (35-44% Mn),41.0,149.64,Volcanogenic (Dharwar Supergroup),34.7,Exploration Phase,1990
+MN-0086,Karnataka,Tumkur,14.017251,75.294302,Medium (35-44% Mn),38.8,125.89,Lateritic (Supergene enrichment),134.4,Exploration Phase,2006
+MN-0087,Karnataka,Chitradurga,13.301072,76.411326,Low (25-35% Mn),32.7,11.52,Sedimentary (Gondite series),57.6,Active Mining,2012
+MN-0088,Madhya Pradesh,Jhabua,22.668814,79.92263,Low (25-35% Mn),26.8,13.69,Metamorphic (Kodurite series),75.3,Exploration Phase,1976
+MN-0089,Madhya Pradesh,Jhabua,22.746241,78.631865,Medium (35-44% Mn),39.7,14.24,Metamorphic (Kodurite series),29.9,Under Assessment,1982
+MN-0090,Madhya Pradesh,Chhindwara,23.260143,80.431658,Medium (35-44% Mn),39.5,50.15,Sedimentary (Gondite series),109.4,Exploration Phase,2012
+MN-0091,Madhya Pradesh,Chhindwara,23.796427,81.256396,Medium (35-44% Mn),39.7,26.51,Sedimentary (Gondite series),11.8,Exploration Phase,2019
+MN-0092,Madhya Pradesh,Balaghat,22.617766,79.821967,High (>44% Mn),48.5,80.67,Lateritic (Supergene enrichment),74.0,Active Mining,2006
+MN-0093,Madhya Pradesh,Balaghat,21.096171,79.900885,Medium (35-44% Mn),36.4,24.23,Metamorphic (Kodurite series),95.4,Under Assessment,1961
+MN-0094,Madhya Pradesh,Jhabua,22.472009,81.416641,Medium (35-44% Mn),41.3,23.21,Metamorphic (Kodurite series),44.5,Exhausted,1993
+MN-0095,Madhya Pradesh,Balaghat,22.253772,79.472881,Low (25-35% Mn),25.9,43.51,Lateritic (Supergene enrichment),143.9,Exploration Phase,1978
+MN-0096,Madhya Pradesh,Balaghat,23.153359,80.49493,Medium (35-44% Mn),37.0,60.06,Metamorphic (Kodurite series),148.2,Exploration Phase,2004
+MN-0097,Madhya Pradesh,Chhindwara,22.251724,80.092548,Medium (35-44% Mn),36.1,62.78,Metamorphic (Kodurite series),111.0,Active Mining,2010
+MN-0098,Madhya Pradesh,Chhindwara,22.468356,80.545201,Low (25-35% Mn),31.0,21.4,Lateritic (Supergene enrichment),38.4,Active Mining,2019
+MN-0099,Madhya Pradesh,Jhabua,23.31511,79.959905,Medium (35-44% Mn),39.8,28.61,Lateritic (Supergene enrichment),100.9,Under Assessment,1972
+MN-0100,Madhya Pradesh,Chhindwara,23.194212,80.226426,Medium (35-44% Mn),42.9,10.93,Metamorphic (Kodurite series),81.7,Active Mining,1991
+MN-0101,Madhya Pradesh,Jhabua,24.578164,79.479703,Medium (35-44% Mn),41.6,17.16,Lateritic (Supergene enrichment),5.5,Exploration Phase,2004
+MN-0102,Madhya Pradesh,Balaghat,21.42444,79.265078,Medium (35-44% Mn),38.8,11.34,Sedimentary (Gondite series),60.7,Under Assessment,1983
+MN-0103,Madhya Pradesh,Jhabua,21.981159,80.641486,Medium (35-44% Mn),36.5,81.69,Metamorphic (Kodurite series),148.7,Exploration Phase,2018
+MN-0104,Madhya Pradesh,Jhabua,23.410537,79.734731,Medium (35-44% Mn),35.3,31.06,Metamorphic (Kodurite series),143.8,Exploration Phase,2015
+MN-0105,Madhya Pradesh,Chhindwara,22.103225,79.865508,Low (25-35% Mn),29.0,45.95,Sedimentary (Gondite series),114.9,Active Mining,2021
+MN-0106,Maharashtra,Nagpur,22.78854,78.967249,Low (25-35% Mn),28.9,9.68,Metamorphic (Kodurite series),44.6,Exploration Phase,1988
+MN-0107,Maharashtra,Ratnagiri,21.228692,79.767565,Medium (35-44% Mn),41.5,21.35,Metamorphic (Kodurite series),76.9,Active Mining,1965
+MN-0108,Maharashtra,Nagpur,21.725996,79.528716,Medium (35-44% Mn),39.7,44.6,Sedimentary (Gondite series),130.9,Exhausted,1987
+MN-0109,Maharashtra,Bhandara,21.656386,79.905819,Medium (35-44% Mn),42.9,48.89,Volcanogenic (Dharwar Supergroup),131.4,Active Mining,2010
+MN-0110,Maharashtra,Nagpur,20.566481,80.011113,Low (25-35% Mn),26.9,5.84,Sedimentary (Gondite series),17.2,Active Mining,1986
+MN-0111,Maharashtra,Ratnagiri,21.019714,79.571965,Medium (35-44% Mn),41.8,42.98,Volcanogenic (Dharwar Supergroup),83.5,Active Mining,1991
+MN-0112,Maharashtra,Bhandara,20.719087,80.385911,High (>44% Mn),49.7,99.34,Volcanogenic (Dharwar Supergroup),14.8,Active Mining,1969
+MN-0113,Maharashtra,Ratnagiri,20.443663,79.466744,High (>44% Mn),49.2,125.51,Sedimentary (Gondite series),91.2,Exploration Phase,1971
+MN-0114,Maharashtra,Bhandara,20.895169,77.871808,Low (25-35% Mn),29.3,22.13,Metamorphic (Kodurite series),70.5,Under Assessment,1998
+MN-0115,Maharashtra,Bhandara,22.038928,79.586144,Medium (35-44% Mn),43.6,65.95,Lateritic (Supergene enrichment),26.9,Active Mining,1987
+MN-0116,Maharashtra,Nagpur,21.344672,79.694646,Low (25-35% Mn),28.2,42.35,Lateritic (Supergene enrichment),110.0,Active Mining,1993
+MN-0117,Maharashtra,Bhandara,19.998768,80.655012,Low (25-35% Mn),32.8,29.52,Sedimentary (Gondite series),116.8,Under Assessment,2005
+MN-0118,Maharashtra,Bhandara,20.703832,79.518646,Low (25-35% Mn),29.6,20.67,Lateritic (Supergene enrichment),5.2,Active Mining,1966
+MN-0119,Maharashtra,Ratnagiri,21.299982,78.89408,Medium (35-44% Mn),37.4,19.65,Metamorphic (Kodurite series),120.6,Exploration Phase,1970
+MN-0120,Maharashtra,Ratnagiri,22.570258,79.191952,Medium (35-44% Mn),43.6,71.44,Sedimentary (Gondite series),136.6,Exhausted,1970
+MN-0121,Maharashtra,Bhandara,20.226419,79.461831,Medium (35-44% Mn),38.1,37.1,Metamorphic (Kodurite series),117.5,Active Mining,2009
+MN-0122,Maharashtra,Bhandara,21.166706,77.866612,High (>44% Mn),51.8,26.15,Metamorphic (Kodurite series),34.1,Active Mining,2017
+MN-0123,Maharashtra,Ratnagiri,20.543057,79.958066,High (>44% Mn),51.5,28.24,Lateritic (Supergene enrichment),12.5,Active Mining,1991
+MN-0124,Goa,North Goa,15.697568,73.862455,Low (25-35% Mn),31.6,17.91,Lateritic (Supergene enrichment),85.2,Exploration Phase,1965
+MN-0125,Goa,North Goa,15.241637,75.053823,Low (25-35% Mn),27.5,14.97,Metamorphic (Kodurite series),28.1,Active Mining,2004
+MN-0126,Goa,North Goa,14.153934,74.843491,Medium (35-44% Mn),36.5,37.71,Lateritic (Supergene enrichment),8.0,Active Mining,1978
+MN-0127,Goa,North Goa,15.430403,74.096025,Medium (35-44% Mn),39.2,14.21,Lateritic (Supergene enrichment),130.9,Active Mining,1990
+MN-0128,Goa,South Goa,16.305002,73.780202,Low (25-35% Mn),30.1,19.99,Volcanogenic (Dharwar Supergroup),90.3,Exploration Phase,2017
+MN-0129,Goa,South Goa,15.315686,75.424663,Low (25-35% Mn),34.1,15.53,Lateritic (Supergene enrichment),35.5,Exploration Phase,2004
+MN-0130,Goa,South Goa,16.397062,73.898551,Medium (35-44% Mn),38.4,25.43,Lateritic (Supergene enrichment),79.3,Exploration Phase,1996
+MN-0131,Goa,South Goa,15.379557,74.938183,Medium (35-44% Mn),40.3,29.18,Lateritic (Supergene enrichment),28.7,Exploration Phase,2018
+MN-0132,Goa,South Goa,14.70084,72.699026,Low (25-35% Mn),27.4,3.68,Volcanogenic (Dharwar Supergroup),39.0,Exploration Phase,1969
+MN-0133,Goa,North Goa,13.723874,74.203339,Low (25-35% Mn),26.7,6.61,Volcanogenic (Dharwar Supergroup),29.3,Exhausted,2016
+MN-0134,Andhra Pradesh,Visakhapatnam,17.19062,84.464553,Low (25-35% Mn),30.4,14.07,Lateritic (Supergene enrichment),10.0,Exploration Phase,1973
+MN-0135,Andhra Pradesh,Vizianagaram,18.538708,82.949965,Low (25-35% Mn),28.2,1.34,Sedimentary (Gondite series),78.5,Under Assessment,1973
+MN-0136,Andhra Pradesh,Srikakulam,17.795114,84.792767,Medium (35-44% Mn),40.2,9.19,Metamorphic (Kodurite series),41.9,Under Assessment,2002
+MN-0137,Andhra Pradesh,Vizianagaram,20.1707,83.388328,Medium (35-44% Mn),36.5,3.8,Metamorphic (Kodurite series),32.3,Exhausted,2014
+MN-0138,Andhra Pradesh,Visakhapatnam,18.000985,85.031225,Low (25-35% Mn),31.8,5.33,Lateritic (Supergene enrichment),77.1,Under Assessment,1976
+MN-0139,Andhra Pradesh,Srikakulam,18.647017,83.633416,Low (25-35% Mn),31.6,4.91,Sedimentary (Gondite series),62.1,Active Mining,1964
+MN-0140,Andhra Pradesh,Srikakulam,17.019248,84.254771,Medium (35-44% Mn),41.8,13.49,Sedimentary (Gondite series),18.1,Under Assessment,1990
+MN-0141,Rajasthan,Udaipur,25.951522,73.784441,Medium (35-44% Mn),42.2,7.65,Metamorphic (Kodurite series),68.2,Exhausted,1970
+MN-0142,Rajasthan,Udaipur,24.324736,72.780671,Low (25-35% Mn),28.8,4.19,Lateritic (Supergene enrichment),84.5,Exploration Phase,1992
+MN-0143,Rajasthan,Udaipur,24.988831,72.441528,Medium (35-44% Mn),39.2,3.74,Metamorphic (Kodurite series),60.1,Exploration Phase,1985
+MN-0144,Rajasthan,Udaipur,24.195461,73.636777,Medium (35-44% Mn),39.7,7.73,Metamorphic (Kodurite series),124.2,Exhausted,2002
+MN-0145,Rajasthan,Udaipur,25.297851,73.813668,Low (25-35% Mn),29.9,2.77,Lateritic (Supergene enrichment),42.2,Active Mining,2011
+MN-0146,Jharkhand,East Singhbhum,23.217935,85.665475,Low (25-35% Mn),34.8,2.39,Metamorphic (Kodurite series),124.4,Exploration Phase,1989
+MN-0147,Jharkhand,East Singhbhum,23.240042,84.725324,Medium (35-44% Mn),37.3,10.91,Sedimentary (Gondite series),144.6,Exploration Phase,1963
+MN-0148,Jharkhand,West Singhbhum,23.181603,83.67847,Medium (35-44% Mn),42.1,2.86,Metamorphic (Kodurite series),98.8,Exploration Phase,1983
+MN-0149,Jharkhand,West Singhbhum,23.719536,85.259277,Low (25-35% Mn),33.2,2.43,Volcanogenic (Dharwar Supergroup),66.4,Active Mining,1969
+MN-0150,Jharkhand,West Singhbhum,23.269343,86.044805,Medium (35-44% Mn),39.3,4.96,Lateritic (Supergene enrichment),82.6,Under Assessment,1981
