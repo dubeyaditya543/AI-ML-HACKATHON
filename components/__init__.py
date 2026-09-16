@@ -1,0 +1,1 @@
+# MANGANEX components package
