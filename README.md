@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# AI-ML-HACKATHON
-#akshat
-=======
 # 💎 MineVision AI — Manganese Reserve Intelligence & Production Planning
 
 > **Smart India Hackathon 2026**  
